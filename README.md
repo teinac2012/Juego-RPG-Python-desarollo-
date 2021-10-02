@@ -7,9 +7,9 @@ Lista de funciones:
 *   ✉️ 
 *   🇪🇸 Multilenguaje (Español e Inglés)
 *   ⚙️ 
-    Configuración total del juego ( canales de escucha, etc...)
+*   Configuración total del juego ( canales de escucha, etc...)
 *   😀 
-    Batallas RPG por texto
+*   Batallas RPG por texto
 
 
 ## 📎 Links
